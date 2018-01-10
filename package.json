@@ -1,6 +1,6 @@
 {
   "name": "ouanalyse-jquery-jeditable-wysiwyg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wysiwyg plugin for jquery jeditable",
   "main": "jquery.jeditable.wysiwyg.js",
   "scripts": {
